@@ -1,0 +1,9 @@
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Skittern_calculator.csprojResolveAssemblyReference.cache
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Sreden_uspeh_10.Form1.resources
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Sreden_uspeh_10.frmAbout.resources
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Sreden_uspeh_10.Properties.Resources.resources
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Skittern_calculator.csproj.GenerateResource.Cache
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\bin\Debug\Skittern_calculator.exe
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\bin\Debug\Skittern_calculator.pdb
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Skittern_calculator.exe
+C:\Dan\Programming\C#\Skittern_calculator\Sreden_uspeh_10\obj\x86\Debug\Skittern_calculator.pdb
